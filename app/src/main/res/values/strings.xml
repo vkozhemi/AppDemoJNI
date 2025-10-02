@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppDemo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="swipe_to_go_back">Swipe to go back</string>
+    <string name="blur_0">Blur: 0</string>
+    <string name="invert_colors_jni">Invert colors (JNI)</string>
+    <string name="apply_invert">Apply invert</string>
+    <string name="reset">Reset</string>
+    <string name="choose_from_gallery">Choose from gallery</string>
+    <string name="file_name_without_extension">File name (without extension)</string>
+    <string name="save_to_gallery">Save to gallery</string>
+</resources>
